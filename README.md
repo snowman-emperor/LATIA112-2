@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1ViIGTbCkN63WoOkjC4y93Sv25RXWzkiW?usp=sh
 
 homework1資料:
 https://docs.google.com/spreadsheets/d/1YAW-PpMuMrEnccKnzeuVdKRvqy5kzGBssO_gzHUazeY/edit?usp=sharing
+
+hw2:
+https://github.com/snowman-emperor/LATIA112-2/tree/main/hw2
